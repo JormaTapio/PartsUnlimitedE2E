@@ -9,6 +9,7 @@ namespace PartsUnlimited.Models
         //Uusi kommentti kello 19:37 ... miten menee?
         //Category commit always
         //My third change.
+        //1,2,3
 
 
         public int CategoryId { get; set; }
