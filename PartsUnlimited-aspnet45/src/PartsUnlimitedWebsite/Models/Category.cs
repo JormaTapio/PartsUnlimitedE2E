@@ -5,7 +5,7 @@ namespace PartsUnlimited.Models
 {
     public class Category
     {
-        //Tapsa's third comment ... or ... 3.5
+        //Tapsa's third comment ... or ... 13.5
         public int CategoryId { get; set; }
 
         [Required]
