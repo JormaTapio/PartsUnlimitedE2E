@@ -7,6 +7,7 @@ namespace PartsUnlimited.Models
     {
         //Tapsa's third comment ... or ... 13.5
         //Uusi kommentti kello 19:37 ... miten menee?
+        //Category commit always
 
 
         public int CategoryId { get; set; }
