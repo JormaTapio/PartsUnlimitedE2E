@@ -6,7 +6,7 @@ namespace PartsUnlimited.Models
     public class Category
     {
         //Tapsa's third comment ... or ... 13.5
-        //Uusi kommentti kello 19:30 ... miten menee?
+        //Uusi kommentti kello 19:37 ... miten menee?
 
 
         public int CategoryId { get; set; }
